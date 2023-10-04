@@ -16,7 +16,7 @@ const Header = () => {
           <div className="app__header-badge">
             <h2 className="head-text">Hi, I&apos;m Zadid.</h2>
             <p>
-              A fullstuuuuuuck developer. <br />
+              A fullstack developer. <br />
               Bringing your ideas to life through code.
             </p>
             {/* button goes here */}

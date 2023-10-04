@@ -31,12 +31,11 @@ const Works = () => {
   return (
     <>
       <h2 className="head-text">
-        My Creative <span>Portofolio</span> <br /> Lorem{" "}
-        <span>Ipsum Dolor</span>
+        Explore My <span>Creativity</span>
       </h2>
 
       <div className="app__work-filter">
-        {["Spring Boot", "Web App", "SQL", "React JS", "No-SQL"].map(
+        {["Spring Boot", "Web App", "SQL", "React JS", "No-SQL", "All"].map(
           (item, index) => (
             <div
               key={index}
